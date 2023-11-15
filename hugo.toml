@@ -1,0 +1,4 @@
+baseURL = 'https://reveforge.studio/'
+languageCode = 'en-us'
+title = 'ReveForge Studios'
+theme = 'ananke'
